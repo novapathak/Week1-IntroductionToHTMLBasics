@@ -1,0 +1,33 @@
+h1{
+    color: darkred;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color:black;
+     font-style: italic;
+     font-weight: 900;
+     text-indent: 650;
+}
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20%;
+}
+h4{
+    text-align: center;
+}
+
+h3{
+    text-indent: 700;
+    color: black;
+}
+div{
+    margin:0;
+    padding:0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
